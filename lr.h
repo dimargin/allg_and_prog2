@@ -1,0 +1,13 @@
+int lr1(void);
+int lr2(void);
+int lr3(void);
+int lr4(void);
+int lr5(void);
+int lr6(void);
+int lr7(void);
+int dz1(void);
+int dz2(void);
+int dz3(void);
+int dz4(void);
+int dz5(void);
+int dz6(void);
